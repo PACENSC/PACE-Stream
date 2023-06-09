@@ -18,7 +18,8 @@ A few key parts of the software:
 * Indicators for buzzes and point values on tossups and bonuses
 * Showing which team controls a given bonus or bounceback
 * Custom shaders for waiting screens between games and for added flair during gameplay
+* Integration with MODAQ to show dynamic score updates
 
-Suggestions are welcome! Please send them to S. A. Shenoy (sshenoy [at] pace-nsc [dot] org).
+Suggestions are welcome and highly appreciated! Please send them to S. A. Shenoy (sshenoy [at] pace-nsc [dot] org).
 
 Best of luck to all teams at this year's NSC~
