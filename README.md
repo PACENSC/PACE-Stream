@@ -3,7 +3,7 @@ This is a utility designed to help run the livestream of gameplay for the 2023 P
 It is meant to be used alongside the OBS Studio software, with the use of a few additional plugins.
 
 ## Dependencies
-This project utilizes HTML-GL, HTML, and JavaScript. It is currently in version 0.0.1, and I plan to extend its functionality
+This project utilizes HTML-GL, HTML, and TypeScript. It is currently in version 0.0.1, and I plan to extend its functionality
 for future uses.
 
 ## Installation
