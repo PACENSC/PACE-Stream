@@ -4,8 +4,6 @@
  * @date 06/09/2023
  */
 
-let cols:number[] = [0,1,2];
-
 // map between schools and their color schemes,
 // designed to be consistent across all teams
 // from a given school
@@ -42,8 +40,11 @@ let TeamCols = new Map ([
 // the names of the two teams playing a game,
 // according to the **lowercase** keys written
 // in the table above
-let team_one = "barrington";
-let team_two = "r-m";
+let TeamOne = "barrington";
+let TeamTwo = "r-m";
+
+let TeamOnePlayers = ["A", "B", "C", "D"];
+let TeamTwoPlayers = ["E", "F", "G", "H"];
 
 /**
  * Function to convert hex to RGB
