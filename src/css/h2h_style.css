@@ -1,0 +1,46 @@
+.body {
+    background: rgba(1, 0, 1, 1);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.teamNameContainer {
+    display: flex;
+    justify-content: center;
+}
+  
+.box {
+    width: 240px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: #ff0000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.box + .box {
+    margin-left: 64px; /* Adjust the value as needed */
+}
+
+.teamName {
+    width: 540px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #ff0000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.mainContent {
+    width: 80%;
+    justify-content: center;
+    height: 640px;
+}
