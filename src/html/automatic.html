@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSC Titles</title>
+    <link rel="stylesheet" type="text/css" href="../css/h2h_style.css"/>
+    <script type="text/javascript" src="../lib/htmlgl.min.js"></script>
+    <!--script type="text/javascript" src="../ts/game_info.ts"--><!--/script-->
+    <!--script type="text/javascript" src="../link_shaders.ts"--><!--/script-->
+</head>
+<body>
+  <div class="container">
+    <div class="teamAContainer">
+      <div class="boxA"></div>
+    </div>
+    <div class="teamBContainer">
+      <div class="boxB"></div>
+    </div>
+  </div>
+  <div class="mainContent">
+    <div class="teamName" id="teamName1">
+      <p>Team Name 1</p>
+    </div>
+    <div class="teamName" id="teamName2">
+      <p>Team Name 2</p>
+    </div>
+  </div>
+
+  <script>
+    // Define key mappings as constants
+    const keyMappings = {
+      teamName1: '1',
+      teamName2: '2',
+      boxA: 'a',
+      boxB: 'b',
+    };
+
+    // Add event listeners for keydown events
+    document.addEventListener('keydown', handleKeyDown);
+
+    // Function to handle keydown events
+    function handleKeyDown(event) {
+      const keyPressed = event.key;
+
+      // Check if the pressed key matches the key mapping for each element
+      if (keyPressed === keyMappings.teamName1) {
+        playAnimation('teamName1');
+      } else if (keyPressed === keyMappings.teamName2) {
+        playAnimation('teamName2');
+      } else if (keyPressed === keyMappings.boxA) {
+        playAnimation('boxA');
+      } else if (keyPressed === keyMappings.boxB) {
+        playAnimation('boxB');
+      }
+    }
+
+    // Function to play the animation for the specified element
+    function playAnimation(elementId) {
+      const element = document.getElementById(elementId);
+      if (element) {
+        element.classList.add('active');
+        setTimeout(() => {
+          element.classList.remove('active');
+        }, 1500);
+      }
+    }
+  </script>
+</body>
+</html>

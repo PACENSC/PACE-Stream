@@ -7,50 +7,82 @@
     <title>NSC Titles</title>
     <link rel="stylesheet" type="text/css" href="../css/h2h_style.css"/>
     <script type="text/javascript" src="../lib/htmlgl.min.js"></script>
-    <!--script type="text/javascript" src="../ts/game_info.ts"--><!--/script-->
+    <script type="text/javascript" src="../js/game_info.js"--></script>
     <!--script type="text/javascript" src="../link_shaders.ts"--><!--/script-->
 </head>
-<body>
-    <div class="teamAContainer swoosh-A">
-        <div class="teamName">
-            <p class="heading">Rockford Auburn</p>
+<html-gl>
+    <body>
+        <div class="teamAContainer swoosh-A">
+            <div class="teamName">
+                <p class="heading">Rockford Auburn</p>
+            </div>
         </div>
-    </div>
-    <div class="container">
-        <div class="boxA swoosh-A">
-            <p class="name">Player One</p>
+        <div class="container">
+            <div class="boxA swoosh-A">
+                <p class="name">Player One</p>
+            </div>
+            <div class="boxA swoosh-A">
+                <p class="name">Player Two</p>
+            </div>
+            <div class="boxA swoosh-A">
+                <p class="name">Player Three</p>
+            </div>
+            <div class="boxA swoosh-A">
+                <p class="name">Player Four</p>
+            </div>
         </div>
-        <div class="boxA swoosh-A">
-            <p class="name">Player Two</p>
+        <div class="mainContent">
         </div>
-        <div class="boxA swoosh-A">
-            <p class="name">Player Three</p>
+        <div class="container">
+            <div class="boxB swoosh-B">
+                <p class="name">Player One</p>
+            </div>
+            <div class="boxB swoosh-B">
+                <p class="name">Player Two</p>
+            </div>
+            <div class="boxB swoosh-B">
+                <p class="name">Player Three</p>
+            </div>
+            <div class="boxB swoosh-B">
+                <p class="name">Player Four</p>
+            </div>
         </div>
-        <div class="boxA swoosh-A">
-            <p class="name">Player Four</p>
+        <div class="teamBContainer swoosh-B">
+            <div class="teamName">
+                <p class="heading">Richard Montgomery</p>
+            </div>
         </div>
-    </div>
-    <div class="mainContent">
-    </div>
-    <div class="container">
-        <div class="boxB swoosh-B">
-            <p class="name">Player One</p>
-        </div>
-        <div class="boxB swoosh-B">
-            <p class="name">Player Two</p>
-        </div>
-        <div class="boxB swoosh-B">
-            <p class="name">Player Three</p>
-        </div>
-        <div class="boxB swoosh-B">
-            <p class="name">Player Four</p>
-        </div>
-      </div>
-      <div class="teamBContainer swoosh-B">
-        <div class="teamName">
-            <p class="heading">Richard Montgomery</p>
-        </div>
-    </div>
-
-</body>
+        <script>
+            // Add event listeners for keydown events
+            document.addEventListener('keydown', handleKeyDown);
+        
+            // Function to handle keydown events
+            function handleKeyDown(event) {
+              const keyPressed = event.key;
+        
+              // Check if the pressed key matches the desired key for each element
+              if (keyPressed === '1') {
+                playAnimation('.teamName:nth-child(1) p');
+              } else if (keyPressed === '2') {
+                playAnimation('.teamName:nth-child(2) p');
+              } else if (keyPressed === 'a') {
+                playAnimation('.boxA');
+              } else if (keyPressed === 'b') {
+                playAnimation('.boxB');
+              }
+            }
+        
+            // Function to play the animation for the specified element
+            function playAnimation(selector) {
+              const element = document.querySelector(selector);
+              if (element) {
+                element.classList.add('swoosh-down');
+                setTimeout(() => {
+                  element.classList.remove('swoosh-down');
+                }, 1500);
+              }
+            }
+          </script>
+    </body>
+</html-gl>
 </html>
