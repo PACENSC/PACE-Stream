@@ -1,6 +1,6 @@
 {
-    "current_scene": "Idle Screen",
-    "current_program_scene": "Idle Screen",
+    "current_scene": "HeadToHead",
+    "current_program_scene": "HeadToHead",
     "scene_order": [
         {
             "name": "HeadToHead"
