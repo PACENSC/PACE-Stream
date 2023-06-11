@@ -40,6 +40,9 @@ let TeamCols = new Map ([
 // the names of the two teams playing a game
 let team_one = "Barrington";
 let team_two = "Auburn";
+var team_one_cols = TeamCols[team_one.toLowerCase()];
+var team_two_cols = TeamCols[team_two.toLowerCase()];
+console.log("team cols " + team_one_cols);
 
 // the names of the players for bot teams
 let team_one_players = ["A", "B", "C", "D"];
@@ -71,7 +74,30 @@ function changeCSS(teamOne, teamTwo) {
     }
 }
 
-function linkUniforms()
+// code that inserts the shader and uniforms in 
+// the html canvas
+function loadShaderIntoCanvas(path, team)
 {
+    let fragment_shader = fs.readFileSync(path).toString();
 
+    var canvas = document.createElement("canvas");
+    var sandbox = new GlslCanvas(canvas);
+    sandbox.load(fragment_shader);
+
+    let team_col = (team === 0) ? team_one_cols : team_two_cols;
+
+    let col = hexToRGB(team_col);
+    sandbox.setUniform("a", col[0], col[1], col[2]);
+
+    col = hexToRGB(team_one_cols[1]);
+    sandbox.setUniform("b", col[0], col[1], col[2]);
+
+    col = hexToRGB(team_one_cols[2]);
+    sandbox.setUniform("c", col[0], col[1], col[2]);
+
+    col = hexToRGB(team_one_cols[3]);
+    sandbox.setUniform("d", col[0], col[1], col[2]); 
 }
+
+loadShaderIntoCanvas('../shaders/idle.glsl', 0);
+loadShaderIntoCanvas('../shaders/idle.glsl', 1);

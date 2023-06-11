@@ -1,6 +1,6 @@
 {
-    "current_scene": "HeadToHead",
-    "current_program_scene": "HeadToHead",
+    "current_scene": "Idle Screen",
+    "current_program_scene": "Idle Screen",
     "scene_order": [
         {
             "name": "HeadToHead"
@@ -12,7 +12,16 @@
             "name": "TeamB"
         },
         {
+            "name": "Idle Screen"
+        },
+        {
             "name": "Circular-Logo-HiRes"
+        },
+        {
+            "name": "TeamAScore"
+        },
+        {
+            "name": "TeamBScore"
         },
         {
             "name": "TeamAScoreboard"
@@ -34,12 +43,6 @@
         },
         {
             "name": "TeamBCam"
-        },
-        {
-            "name": "TeamAScore"
-        },
-        {
-            "name": "TeamBScore"
         },
         {
             "name": "LowerThirds"
@@ -475,6 +478,78 @@
     "sources": [
         {
             "prev_ver": 486604802,
+            "name": "buzzer-shader",
+            "uuid": "dac87031-0aa1-4861-b98d-5c1058a22851",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1920,
+                "height": 1080,
+                "is_local_file": true,
+                "local_file": "C:/Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/src/html/buzzer_shader.html",
+                "restart_when_active": true
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {},
+            "filters": [
+                {
+                    "prev_ver": 486604802,
+                    "name": "removeBg",
+                    "uuid": "b9b1f62e-790e-4e8b-aad4-c77f6238633c",
+                    "id": "chroma_key_filter",
+                    "versioned_id": "chroma_key_filter_v2",
+                    "settings": {
+                        "key_color_type": "custom",
+                        "key_color": 4294901760,
+                        "similarity": 1,
+                        "smoothness": 299,
+                        "spill": 385,
+                        "opacity": 1.0,
+                        "contrast": 0.63,
+                        "brightness": -0.0207,
+                        "gamma": 0.10000000000000001
+                    },
+                    "mixers": 0,
+                    "sync": 0,
+                    "flags": 0,
+                    "volume": 1.0,
+                    "balance": 0.5,
+                    "enabled": true,
+                    "muted": false,
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "hotkeys": {},
+                    "deinterlace_mode": 0,
+                    "deinterlace_field_order": 0,
+                    "monitoring_type": 0,
+                    "private_settings": {}
+                }
+            ]
+        },
+        {
+            "prev_ver": 486604802,
             "name": "Circular-Logo-HiRes",
             "uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
             "id": "scene",
@@ -689,7 +764,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 11,
+                "id_counter": 13,
                 "items": [
                     {
                         "name": "TeamACam",
@@ -880,6 +955,82 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "TeamAScore",
+                        "source_uuid": "9f11c559-e146-42cc-bc81-70c4d4834458",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 12,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "TeamBScore",
+                        "source_uuid": "860ede1f-9301-4054-8178-7e966806ea75",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 13,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -903,8 +1054,240 @@
                 "libobs.show_scene_item.lower-thirds-h2h": [],
                 "libobs.hide_scene_item.lower-thirds-h2h": [],
                 "libobs.show_scene_item.Circular-Logo-HiRes": [],
-                "libobs.hide_scene_item.Circular-Logo-HiRes": []
+                "libobs.hide_scene_item.Circular-Logo-HiRes": [],
+                "libobs.show_scene_item.TeamAScore": [],
+                "libobs.hide_scene_item.TeamAScore": [],
+                "libobs.show_scene_item.TeamBScore": [],
+                "libobs.hide_scene_item.TeamBScore": []
             },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "Idle Screen",
+            "uuid": "2dd3b18e-0d0c-4d9b-977c-ba2b2641920a",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "team-shader",
+                        "source_uuid": "5c633c0c-2a9c-4064-bade-f777515707ad",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "buzzer-shader",
+                        "source_uuid": "dac87031-0aa1-4861-b98d-5c1058a22851",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1039.0,
+                            "y": 462.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 600,
+                        "crop_top": 600,
+                        "crop_right": 600,
+                        "crop_bottom": 1,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Circular-Logo-HiRes",
+                        "source_uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 67.0,
+                            "y": 135.0
+                        },
+                        "scale": {
+                            "x": 0.75555557012557983,
+                            "y": 0.75555557012557983
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 420,
+                        "crop_top": 0,
+                        "crop_right": 420,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "idle_text",
+                        "source_uuid": "ac500f4a-4cef-4fb3-ac27-302de2e80e98",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 969.0,
+                            "y": 324.0
+                        },
+                        "scale": {
+                            "x": 0.33506301045417786,
+                            "y": 0.33458647131919861
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Circular-Logo-HiRes": [],
+                "libobs.hide_scene_item.Circular-Logo-HiRes": [],
+                "libobs.show_scene_item.idle_text": [],
+                "libobs.hide_scene_item.idle_text": [],
+                "libobs.show_scene_item.team-shader": [],
+                "libobs.hide_scene_item.team-shader": [],
+                "libobs.show_scene_item.buzzer-shader": [],
+                "libobs.hide_scene_item.buzzer-shader": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "idle_text",
+            "uuid": "ac500f4a-4cef-4fb3-ac27-302de2e80e98",
+            "id": "text_gdiplus",
+            "versioned_id": "text_gdiplus_v2",
+            "settings": {
+                "font": {
+                    "face": "Calibri",
+                    "style": "Regular",
+                    "size": 256,
+                    "flags": 0
+                },
+                "text": "The PACE NSC will be right back\nafter a short break...",
+                "color": 4294950121,
+                "outline": true,
+                "outline_color": 4278190080,
+                "outline_size": 20,
+                "vertical": false
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -919,7 +1302,8 @@
             "settings": {
                 "width": 1920,
                 "height": 1080,
-                "url": "file:///C://Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/src/html/head_to_head.html"
+                "url": "file:///C://Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/src/html/head_to_head.html",
+                "restart_when_active": true
             },
             "mixers": 255,
             "sync": 0,
@@ -1142,6 +1526,43 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "team-shader",
+            "uuid": "5c633c0c-2a9c-4064-bade-f777515707ad",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "width": 1920,
+                "height": 1080,
+                "is_local_file": true,
+                "local_file": "C:/Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/src/html/team_shader.html",
+                "shutdown": true,
+                "restart_when_active": false
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,

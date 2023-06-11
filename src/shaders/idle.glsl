@@ -6,14 +6,12 @@ uniform float    u_time;
 uniform vec2     u_resolution;
 uniform vec2     u_mouse;
 uniform vec3     u_camera;
-//uniform vec2[10] u_trails[10];
 
 /**
-TODO: add in when linking HTML
-uniform float time;
-uniform float iTime;
-uniform vec2  screenRes;
-uniform vec2  mouseCoords;  
+uniform vec3 a;
+uniform vec3 b;
+uniform vec3 c;
+uniform vec3 d;
 **/
 
 #define PI  3.141592653589
