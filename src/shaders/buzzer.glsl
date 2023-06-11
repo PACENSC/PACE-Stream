@@ -131,7 +131,7 @@ float getDist(vec3 p, out vec3 col)
 	float buzzerBox = sdRoundBox(p, vec3(2, 3.2, 1.6), 2.15);
 	vec3 buzzerCol = vec3(0);
 	vec3 buzPos = p - vec3(0, -5.8 + 0.2 * sin(u_time * 0.2 * TAU), 25);
-	buzPos.xz *= rot(0.25 * cos(u_time) * u_time);
+	buzPos.xz *= rot(0.25 * cos(u_time) * 0.5 * u_time);
 	float d = drawBuzzer(buzPos, false, buzzerCol);
 	col = buzzerCol;
 	return d;
