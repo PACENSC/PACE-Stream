@@ -104,7 +104,20 @@
   .box + .box {
     margin-left: 60px; /* Adjust the value as needed */
   }
-  
+
+  .hspace {
+    width: 100px;
+    height: auto;
+  }
+
+  .score {
+    width: 240px;
+    height: 100px;
+    border-radius: 50px;
+    background: #76ce81;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
+  }
+
   .teamName {
     width: 720px;
     height: 120px;
@@ -113,7 +126,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
+    color: #23cc39;
     box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
     font-weight: bold;
   }
