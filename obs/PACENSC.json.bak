@@ -1,6 +1,6 @@
 {
-    "current_scene": "Idle Screen",
-    "current_program_scene": "Idle Screen",
+    "current_scene": "HeadToHead",
+    "current_program_scene": "HeadToHead",
     "scene_order": [
         {
             "name": "HeadToHead"
@@ -12,10 +12,10 @@
             "name": "TeamB"
         },
         {
-            "name": "Idle Screen"
+            "name": "Circular-Logo-HiRes"
         },
         {
-            "name": "Circular-Logo-HiRes"
+            "name": "Idle Screen"
         },
         {
             "name": "TeamAScore"
@@ -25,6 +25,9 @@
         },
         {
             "name": "TeamAScoreboard"
+        },
+        {
+            "name": "TeamBG"
         },
         {
             "name": "TeamBScoreboard"
@@ -963,8 +966,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 160.0,
+                            "y": 20.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -974,8 +977,8 @@
                         "bounds_type": 0,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -1001,8 +1004,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 160.0,
+                            "y": 980.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -1012,8 +1015,8 @@
                         "bounds_type": 0,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
@@ -1072,12 +1075,12 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 5,
+                "id_counter": 6,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "team-shader",
-                        "source_uuid": "5c633c0c-2a9c-4064-bade-f777515707ad",
+                        "name": "TeamBG",
+                        "source_uuid": "a3ea7e14-6998-40a0-8ccf-02b7a52949fd",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -1100,7 +1103,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 4,
+                        "id": 6,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -1246,10 +1249,10 @@
                 "libobs.hide_scene_item.Circular-Logo-HiRes": [],
                 "libobs.show_scene_item.idle_text": [],
                 "libobs.hide_scene_item.idle_text": [],
-                "libobs.show_scene_item.team-shader": [],
-                "libobs.hide_scene_item.team-shader": [],
                 "libobs.show_scene_item.buzzer-shader": [],
-                "libobs.hide_scene_item.buzzer-shader": []
+                "libobs.hide_scene_item.buzzer-shader": [],
+                "libobs.show_scene_item.TeamBG": [],
+                "libobs.hide_scene_item.TeamBG": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1576,8 +1579,46 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 8,
+                "id_counter": 9,
                 "items": [
+                    {
+                        "name": "TeamBG",
+                        "source_uuid": "a3ea7e14-6998-40a0-8ccf-02b7a52949fd",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 9,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
                     {
                         "name": "ModMic",
                         "source_uuid": "0169b7ac-205e-4bad-b3ca-29f6cdfa6caa",
@@ -1792,7 +1833,9 @@
                 "libobs.show_scene_item.TeamAScoreboard": [],
                 "libobs.hide_scene_item.TeamAScoreboard": [],
                 "libobs.show_scene_item.Circular-Logo-HiRes": [],
-                "libobs.hide_scene_item.Circular-Logo-HiRes": []
+                "libobs.hide_scene_item.Circular-Logo-HiRes": [],
+                "libobs.show_scene_item.TeamBG": [],
+                "libobs.hide_scene_item.TeamBG": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2372,8 +2415,46 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 11,
+                "id_counter": 12,
                 "items": [
+                    {
+                        "name": "TeamBG",
+                        "source_uuid": "a3ea7e14-6998-40a0-8ccf-02b7a52949fd",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 12,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
                     {
                         "name": "ModMic",
                         "source_uuid": "0169b7ac-205e-4bad-b3ca-29f6cdfa6caa",
@@ -2588,7 +2669,9 @@
                 "libobs.show_scene_item.TeamBScoreboard": [],
                 "libobs.hide_scene_item.TeamBScoreboard": [],
                 "libobs.show_scene_item.Circular-Logo-HiRes": [],
-                "libobs.hide_scene_item.Circular-Logo-HiRes": []
+                "libobs.hide_scene_item.Circular-Logo-HiRes": [],
+                "libobs.show_scene_item.TeamBG": [],
+                "libobs.hide_scene_item.TeamBG": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2687,6 +2770,77 @@
                 "OBSBasic.SelectScene": [],
                 "libobs.show_scene_item.TeamBViewPanel": [],
                 "libobs.hide_scene_item.TeamBViewPanel": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "TeamBG",
+            "uuid": "a3ea7e14-6998-40a0-8ccf-02b7a52949fd",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "team-shader",
+                        "source_uuid": "5c633c0c-2a9c-4064-bade-f777515707ad",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.team-shader": [],
+                "libobs.hide_scene_item.team-shader": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,

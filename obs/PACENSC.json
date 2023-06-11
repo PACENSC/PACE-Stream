@@ -1,6 +1,6 @@
 {
-    "current_scene": "HeadToHead",
-    "current_program_scene": "HeadToHead",
+    "current_scene": "TeamB",
+    "current_program_scene": "TeamB",
     "scene_order": [
         {
             "name": "HeadToHead"
@@ -1545,7 +1545,7 @@
                 "height": 1080,
                 "is_local_file": true,
                 "local_file": "C:/Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/src/html/team_shader.html",
-                "shutdown": true,
+                "shutdown": false,
                 "restart_when_active": false
             },
             "mixers": 255,
@@ -1599,13 +1599,13 @@
                         "bounds_type": 0,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
                         "crop_right": 0,
-                        "crop_bottom": 0,
+                        "crop_bottom": 900,
                         "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
@@ -2432,16 +2432,16 @@
                             "y": 1.0
                         },
                         "align": 5,
-                        "bounds_type": 0,
+                        "bounds_type": 1,
                         "bounds_align": 0,
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1920.0,
+                            "y": 1080.0
                         },
                         "crop_left": 0,
                         "crop_top": 0,
                         "crop_right": 0,
-                        "crop_bottom": 0,
+                        "crop_bottom": 900,
                         "id": 12,
                         "group_item_backup": false,
                         "scale_filter": "disable",
