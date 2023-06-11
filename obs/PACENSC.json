@@ -12,6 +12,9 @@
             "name": "TeamB"
         },
         {
+            "name": "Circular-Logo-HiRes"
+        },
+        {
             "name": "TeamAScoreboard"
         },
         {
@@ -297,6 +300,113 @@
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
             "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "Logo-And-BG",
+            "uuid": "11704a80-acd0-460f-a0e8-77d3ebed0375",
+            "id": "group",
+            "versioned_id": "group",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": true,
+                "cx": 1080,
+                "cy": 1080,
+                "items": [
+                    {
+                        "name": "color-bg",
+                        "source_uuid": "0af7685a-97c7-4224-b29f-f52763c7773c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "PACE-NSC-Logo",
+                        "source_uuid": "b2a5244e-6397-4eeb-b324-7e586ab8ea3d",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.21600000560283661,
+                            "y": 0.21600000560283661
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
         }
     ],
     "quick_transitions": [
@@ -365,13 +475,221 @@
     "sources": [
         {
             "prev_ver": 486604802,
+            "name": "Circular-Logo-HiRes",
+            "uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 5,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "color-bg",
+                        "source_uuid": "0af7685a-97c7-4224-b29f-f52763c7773c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 421.0,
+                            "y": -5.0
+                        },
+                        "scale": {
+                            "x": 1.0046296119689941,
+                            "y": 1.0046296119689941
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "PACE-NSC-Logo",
+                        "source_uuid": "b2a5244e-6397-4eeb-b324-7e586ab8ea3d",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 421.0,
+                            "y": -5.0
+                        },
+                        "scale": {
+                            "x": 0.21700000762939453,
+                            "y": 0.21700000762939453
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": true,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Logo-And-BG",
+                        "source_uuid": "11704a80-acd0-460f-a0e8-77d3ebed0375",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 421.0,
+                            "y": -5.0
+                        },
+                        "scale": {
+                            "x": 1.0046296119689941,
+                            "y": 1.0046296119689941
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.PACE-NSC-Logo": [],
+                "libobs.hide_scene_item.PACE-NSC-Logo": [],
+                "libobs.show_scene_item.color-bg": [],
+                "libobs.hide_scene_item.color-bg": [],
+                "libobs.show_scene_item.Logo-And-BG": [],
+                "libobs.hide_scene_item.Logo-And-BG": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {},
+            "filters": [
+                {
+                    "prev_ver": 486604802,
+                    "name": "Image Mask/Blend",
+                    "uuid": "b2358073-cbb7-451c-bb3d-229a33e74404",
+                    "id": "mask_filter",
+                    "versioned_id": "mask_filter_v2",
+                    "settings": {
+                        "type": "mask_color_filter.effect",
+                        "image_path": "C:/Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/res/img/logo-mask.png",
+                        "color": 4294967295
+                    },
+                    "mixers": 0,
+                    "sync": 0,
+                    "flags": 0,
+                    "volume": 1.0,
+                    "balance": 0.5,
+                    "enabled": true,
+                    "muted": false,
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "hotkeys": {},
+                    "deinterlace_mode": 0,
+                    "deinterlace_field_order": 0,
+                    "monitoring_type": 0,
+                    "private_settings": {}
+                }
+            ]
+        },
+        {
+            "prev_ver": 486604802,
+            "name": "color-bg",
+            "uuid": "0af7685a-97c7-4224-b29f-f52763c7773c",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "width": 1080,
+                "color": 4286173553
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
             "name": "HeadToHead",
             "uuid": "e6a22d37-162e-46be-886c-e3f7c7e3ead4",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 10,
+                "id_counter": 11,
                 "items": [
                     {
                         "name": "TeamACam",
@@ -524,6 +842,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Circular-Logo-HiRes",
+                        "source_uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1700.0,
+                            "y": 920.0
+                        },
+                        "scale": {
+                            "x": 0.12916666269302368,
+                            "y": 0.12962962687015533
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 11,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -545,7 +901,9 @@
                 "libobs.show_scene_item.TeamBCam": [],
                 "libobs.hide_scene_item.TeamBCam": [],
                 "libobs.show_scene_item.lower-thirds-h2h": [],
-                "libobs.hide_scene_item.lower-thirds-h2h": []
+                "libobs.hide_scene_item.lower-thirds-h2h": [],
+                "libobs.show_scene_item.Circular-Logo-HiRes": [],
+                "libobs.hide_scene_item.Circular-Logo-HiRes": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -689,6 +1047,34 @@
         },
         {
             "prev_ver": 486604802,
+            "name": "PACE-NSC-Logo",
+            "uuid": "b2a5244e-6397-4eeb-b324-7e586ab8ea3d",
+            "id": "image_source",
+            "versioned_id": "image_source",
+            "settings": {
+                "unload": true,
+                "linear_alpha": false,
+                "file": "C:/Users/there/Documents/Quizbowl/PACE/2023PACEStream/pace-stream/res/img/pacelogo25.png"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604802,
             "name": "ScoreA (TEMP)",
             "uuid": "aa566d6e-d1f6-4d6f-86a2-535597fc8a21",
             "id": "text_gdiplus",
@@ -769,7 +1155,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 7,
+                "id_counter": 8,
                 "items": [
                     {
                         "name": "ModMic",
@@ -922,6 +1308,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Circular-Logo-HiRes",
+                        "source_uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1700.0,
+                            "y": 920.0
+                        },
+                        "scale": {
+                            "x": 0.12916666269302368,
+                            "y": 0.12962962687015533
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 8,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -945,7 +1369,9 @@
                 "libobs.show_scene_item.TeamACam": [],
                 "libobs.hide_scene_item.TeamACam": [],
                 "libobs.show_scene_item.TeamAScoreboard": [],
-                "libobs.hide_scene_item.TeamAScoreboard": []
+                "libobs.hide_scene_item.TeamAScoreboard": [],
+                "libobs.show_scene_item.Circular-Logo-HiRes": [],
+                "libobs.hide_scene_item.Circular-Logo-HiRes": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1525,7 +1951,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 10,
+                "id_counter": 11,
                 "items": [
                     {
                         "name": "ModMic",
@@ -1678,6 +2104,44 @@
                             "duration": 0
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Circular-Logo-HiRes",
+                        "source_uuid": "85d588e2-d68b-4816-8fb6-ce95dedc4e4c",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1700.0,
+                            "y": 920.0
+                        },
+                        "scale": {
+                            "x": 0.12916666269302368,
+                            "y": 0.12962962687015533
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 11,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -1701,7 +2165,9 @@
                 "libobs.show_scene_item.TeamBCam": [],
                 "libobs.hide_scene_item.TeamBCam": [],
                 "libobs.show_scene_item.TeamBScoreboard": [],
-                "libobs.hide_scene_item.TeamBScoreboard": []
+                "libobs.hide_scene_item.TeamBScoreboard": [],
+                "libobs.show_scene_item.Circular-Logo-HiRes": [],
+                "libobs.hide_scene_item.Circular-Logo-HiRes": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,

@@ -1,71 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NSC Titles</title>
-    <link rel="stylesheet" type="text/css" href="../css/h2h_style.css"/>
-    <script type="text/javascript" src="../lib/htmlgl.min.js"></script>
-    <!--script type="text/javascript" src="../ts/game_info.ts"--><!--/script-->
-    <!--script type="text/javascript" src="../link_shaders.ts"--><!--/script-->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="../css/h2h_style.css"/>
+  <title>Document</title>
+  <style>
+    .container {
+      display: flex;
+      overflow-x: scroll;
+    }
+    
+    .boxA {
+      width: 200px;
+      height: 200px;
+      margin-right: 10px;
+      background-image: linear-gradient(to right, #000000, #FFFFFF);
+      animation: scrollBg 5s linear infinite;
+    }
+    
+    @keyframes scrollBg {
+      0% {
+        background-position: 0% 0%;
+      }
+      100% {
+        background-position: 100% 0%;
+      }
+    }
+  </style>
 </head>
 <body>
   <div class="container">
-    <div class="teamAContainer">
-      <div class="boxA"></div>
+    <div class="boxA swoosh-A">
+        <p class="name">Player One</p>
     </div>
-    <div class="teamBContainer">
-      <div class="boxB"></div>
+    <div class="boxA swoosh-A">
+        <p class="name">Player Two</p>
     </div>
-  </div>
-  <div class="mainContent">
-    <div class="teamName" id="teamName1">
-      <p>Team Name 1</p>
+    <div class="boxA swoosh-A">
+        <p class="name">Player Three</p>
     </div>
-    <div class="teamName" id="teamName2">
-      <p>Team Name 2</p>
+    <div class="boxA swoosh-A">
+        <p class="name">Player Four</p>
     </div>
-  </div>
-
-  <script>
-    // Define key mappings as constants
-    const keyMappings = {
-      teamName1: '1',
-      teamName2: '2',
-      boxA: 'a',
-      boxB: 'b',
-    };
-
-    // Add event listeners for keydown events
-    document.addEventListener('keydown', handleKeyDown);
-
-    // Function to handle keydown events
-    function handleKeyDown(event) {
-      const keyPressed = event.key;
-
-      // Check if the pressed key matches the key mapping for each element
-      if (keyPressed === keyMappings.teamName1) {
-        playAnimation('teamName1');
-      } else if (keyPressed === keyMappings.teamName2) {
-        playAnimation('teamName2');
-      } else if (keyPressed === keyMappings.boxA) {
-        playAnimation('boxA');
-      } else if (keyPressed === keyMappings.boxB) {
-        playAnimation('boxB');
-      }
-    }
-
-    // Function to play the animation for the specified element
-    function playAnimation(elementId) {
-      const element = document.getElementById(elementId);
-      if (element) {
-        element.classList.add('active');
-        setTimeout(() => {
-          element.classList.remove('active');
-        }, 1500);
-      }
-    }
-  </script>
+</div>
 </body>
 </html>

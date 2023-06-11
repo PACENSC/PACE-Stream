@@ -1,6 +1,6 @@
 {
-    "current_scene": "TeamBScoreboard",
-    "current_program_scene": "TeamBScoreboard",
+    "current_scene": "HeadToHead",
+    "current_program_scene": "HeadToHead",
     "scene_order": [
         {
             "name": "HeadToHead"
@@ -371,7 +371,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 7,
+                "id_counter": 10,
                 "items": [
                     {
                         "name": "TeamACam",
@@ -450,14 +450,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TeamBScore",
-                        "source_uuid": "860ede1f-9301-4054-8178-7e966806ea75",
-                        "visible": false,
+                        "name": "lower-thirds-h2h",
+                        "source_uuid": "9d5882d6-401c-453b-8c14-e7d91b47e010",
+                        "visible": true,
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 840.0,
-                            "y": 880.0
+                            "x": 0.0,
+                            "y": -30.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -473,8 +473,8 @@
                         "crop_left": 0,
                         "crop_top": 0,
                         "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 6,
+                        "crop_bottom": 800,
+                        "id": 9,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -488,52 +488,14 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "TeamAScoreboard",
-                        "source_uuid": "02f4f53d-c7e5-4692-86ee-ed13c1d735dc",
+                        "name": "lower-thirds-h2h",
+                        "source_uuid": "9d5882d6-401c-453b-8c14-e7d91b47e010",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
                             "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 4,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "TeamBScoreboard",
-                        "source_uuid": "97d0c24a-da34-4b14-9fbf-49d395ee5d58",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 960.0
+                            "y": 830.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -547,10 +509,10 @@
                             "y": 1.0
                         },
                         "crop_left": 0,
-                        "crop_top": 0,
+                        "crop_top": 800,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 5,
+                        "id": 10,
                         "group_item_backup": false,
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -582,12 +544,8 @@
                 "libobs.hide_scene_item.TeamACam": [],
                 "libobs.show_scene_item.TeamBCam": [],
                 "libobs.hide_scene_item.TeamBCam": [],
-                "libobs.show_scene_item.TeamAScoreboard": [],
-                "libobs.hide_scene_item.TeamAScoreboard": [],
-                "libobs.show_scene_item.TeamBScoreboard": [],
-                "libobs.hide_scene_item.TeamBScoreboard": [],
-                "libobs.show_scene_item.TeamBScore": [],
-                "libobs.hide_scene_item.TeamBScore": []
+                "libobs.show_scene_item.lower-thirds-h2h": [],
+                "libobs.hide_scene_item.lower-thirds-h2h": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1407,8 +1365,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1518.0,
-                            "y": 47.0
+                            "x": 1530.0,
+                            "y": 42.0
                         },
                         "scale": {
                             "x": 1.0,
@@ -2161,8 +2119,8 @@
                         "locked": false,
                         "rot": 0.0,
                         "pos": {
-                            "x": 1523.0,
-                            "y": 41.0
+                            "x": 1531.0,
+                            "y": 42.0
                         },
                         "scale": {
                             "x": 1.0,
