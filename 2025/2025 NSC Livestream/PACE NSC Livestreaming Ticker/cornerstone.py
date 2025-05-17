@@ -1,9 +1,5 @@
 import config
 
-#https://cornerstone-scheduler-fvd6c3agbccxd7f5.eastus2-01.azurewebsites.net/dashboard
-#username = beta2
-#password = 23N3U2pT
-
 def getTournament(tournamentID):
     try:
         send_url = config.cornerstone_url + "tournament/" +str(tournamentID)
