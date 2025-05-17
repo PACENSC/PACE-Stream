@@ -1,0 +1,295 @@
+1	Camden Williams	11	Mexico	Hillcrest	5.0	21	23	100	650	130.00
+2	Evan Schleck	11	Hunter A	Hillcrest	5.0	24	16	100	640	128.00
+3	Tate Osborne	11	Alabama Cyber Tech	Judiciary Square	5.0	11	35	100	570	114.00
+4	Ali Hamzeh	11	Kinkaid	Georgetown	5.0	12	25	100	490	98.00
+5	Bryce Cruise	12	Heights	Foggy Bottom	5.0	16	16	100	480	96.00
+6	Cole Hartung	12	Kinkaid	Georgetown	5.0	18	11	100	470	94.00
+7	Robert Wang	11	Livingston A	Kalorama	5.0	15	17	100	470	94.00
+8	Hazel DePreist-Sullivan	12	Hastings	Mount Pleasant	5.0	13	21	101	470	94.00
+9	Sky Hong	10	Choate Rosemary Hall	Dupont Circle	5.0	8	29	100	450	90.00
+10	Rohan Kher	12	Barrington	Logan Circle	5.0	14	16	100	440	88.00
+11	Ryan Smith	11	Downingtown STEM	Hillcrest	5.0	5	29	100	390	78.00
+12	Janani Gollapalli	10	Lightridge	Foggy Bottom	5.0	4	31	100	390	78.00
+13	Nam Dang	9	Richard Montgomery B	Judiciary Square	5.0	7	25	100	390	78.00
+14	Krish Chinta	11	Innovation Academy A	Columbia Heights	5.0	10	18	100	380	76.00
+15	Omkar Marathe	11	William Fremd	Dupont Circle	5.0	12	14	100	380	76.00
+16	Soren Gjesfjeld	12	Bloomington	Eckington	5.0	3	31	100	370	74.00
+17	Charles Young	12	Barrington	Logan Circle	5.0	11	14	100	360	72.00
+18	Yaj Jhajhria	12	Canyon Crest	Mount Pleasant	5.0	6	22	100	340	68.00
+19	Max Chen	11	Strake Jesuit	Bloomingdale	5.0	10	14	100	340	68.00
+20	Rajiv Pujara	11	Fairfield County AT	Georgetown	5.0	8	18	101	340	68.00
+21	Travis Johnson	11	Great Valley	Kalorama	5.0	9	15	100	330	66.00
+22	Kevin Wang	12	Johns Creek A	Judiciary Square	5.0	14	5	100	330	66.00
+23	Arav Kaushik	10	Livingston B	Columbia Heights	5.0	6	21	100	330	66.00
+24	Alex Zhang	11	Okemos	Eckington	5.0	6	21	100	330	66.00
+25	Sam McNamee	12	Maggie Walker A	Anacostia	5.0	10	12	100	320	64.00
+26	Matthew Kohn	12	Hunter A	Hillcrest	5.0	7	17	100	310	62.00
+27	Michelle Luo	11	Johns Creek B	Dupont Circle	5.0	5	21	100	310	62.00
+28	Sanjay Shanmuga Perumal	11	Lambert	Eckington	5.0	8	15	100	310	62.00
+29	Brodie Henry	11	West Point	Bloomingdale	5.0	3	25	100	310	62.00
+30	Carter Pisocky	12	McLean B	Georgetown	5.0	5	20	100	300	60.00
+31	Rachel Ezrielev	12	Richard Montgomery A	Anacostia	5.0	7	16	100	300	60.00
+32	Anthony Zhao	10	Thomas Jefferson B	Columbia Heights	5.0	8	14	100	300	60.00
+33	Shawn Syed	12	University Lab	Judiciary Square	5.0	8	14	100	300	60.00
+34	Andrew Gao	9	Belmont	Foggy Bottom	5.0	5	19	100	290	58.00
+35	Jacob Barta	11	Detroit Catholic Central A	Anacostia	5.0	7	15	100	290	58.00
+36	Manu Sankaran	11	Lambert	Eckington	5.0	9	11	100	290	58.00
+37	Josh Fan	12	Richard Montgomery A	Anacostia	5.0	6	17	100	290	58.00
+38	Alvin Guo	12	Winston Churchill A	Dupont Circle	5.0	3	23	100	290	58.00
+39	Abigail AuYeung	11	DuPage County AT	Kalorama	5.0	5	18	100	280	56.00
+40	Aditya Shivaswamy	12	St. Mark's	Eckington	5.0	7	14	100	280	56.00
+41	Matthew Ryan	10	Thomas Jefferson D	Georgetown	5.0	7	14	101	280	56.00
+42	Gregory Zeldovich	9	Belmont	Foggy Bottom	5.0	7	13	100	270	54.00
+43	Sohum Sukhatankar	12	St. Mark's	Eckington	5.0	8	11	100	270	54.00
+44	Hari Veginati	11	Stevenson A	Foggy Bottom	5.0	10	7	100	270	54.00
+45	Ben Hellman	11	Georgetown Day	Hillcrest	5.0	5	16	100	260	52.00
+46	Rohan Dalal	12	Johns Creek A	Judiciary Square	5.0	7	12	100	260	52.00
+47	Edward Burros	10	McLean A	Bloomingdale	5.0	9	8	100	260	52.00
+48	Adam Williams	12	Northmont A	Kalorama	5.0	4	18	100	260	52.00
+49	Ethan Bosita	12	St. Mark's	Eckington	5.0	10	6	100	260	52.00
+50	Chris Yoo	12	Thomas Jefferson A	Bloomingdale	5.0	6	14	100	260	52.00
+51	Sophia Wu	12	Livingston A	Kalorama	5.0	5	15	100	250	50.00
+52	Beckett Gilmore	12	Owensboro	Mount Pleasant	5.0	5	15	100	250	50.00
+53	Zacariah Hart	10	St. Thomas	Dupont Circle	5.0	2	21	100	250	50.00
+54	Jun Lowenhar	11	Hunter B	Dupont Circle	5.0	5	14	100	240	48.00
+55	Lucas Ardelean	11	Innovation Academy A	Columbia Heights	5.0	9	6	100	240	48.00
+56	Thomas Glotfelty	12	James W. Robinson	Kalorama	5.0	2	20	100	240	48.00
+57	Russell Dillak	11	Northmont B	Eckington	5.0	3	18	100	240	48.00
+58	Khang Le	10	Strake Jesuit	Bloomingdale	5.0	8	8	100	240	48.00
+59	Deven Hagen	11	Thomas Jefferson A	Bloomingdale	5.0	6	12	100	240	48.00
+60	Aryan Desarapu	12	Beavercreek	Logan Circle	5.0	2	19	100	230	46.00
+61	Isaac McCollum	12	Hoover A	Logan Circle	5.0	6	11	100	230	46.00
+62	Jeffrey Xu	12	Johns Creek A	Judiciary Square	5.0	6	11	100	230	46.00
+63	Ave Rieger	12	Northmont A	Kalorama	5.0	3	17	100	230	46.00
+64	Kevin Yang	11	Stevenson A	Foggy Bottom	5.0	6	11	100	230	46.00
+65	Alec Riso	12	Thomas Jefferson B	Columbia Heights	5.0	4	15	100	230	46.00
+66	Nick Murray	11	Detroit Catholic Central A	Anacostia	5.0	6	10	100	220	44.00
+67	Adhav Ravikumar	12	Innovation Academy A	Columbia Heights	5.0	6	10	100	220	44.00
+68	Alec West	12	Lindbergh	Anacostia	5.0	5	12	100	220	44.00
+69	Aditya Khambekar	10	Seven Lakes	Anacostia	5.0	5	12	100	220	44.00
+70	David Lins	10	Maggie Walker C	Judiciary Square	5.0	5	12	101	220	44.00
+71	Spencer Thomas	11	Durham AT	Mount Pleasant	5.0	3	15	100	210	42.00
+72	Haughton Neppl	9	Georgetown Day	Hillcrest	5.0	5	11	100	210	42.00
+73	Keerthana Krishnan	12	Seven Lakes	Anacostia	5.0	7	7	100	210	42.00
+74	Ryan Zhang	12	Thomas Jefferson A	Bloomingdale	5.0	6	9	100	210	42.00
+75	Addison Baker	12	Walter Payton A	Mount Pleasant	5.0	2	17	100	210	42.00
+76	Alan Fan	12	Thomas Jefferson C	Mount Pleasant	5.0	4	13	101	210	42.00
+77	Matthew Wozniak	11	Freeman	Columbia Heights	5.0	3	14	100	200	40.00
+78	Stephen McCollum	12	Hoover A	Logan Circle	5.0	3	14	100	200	40.00
+79	Samuel Shottes	9	Hunter B	Dupont Circle	5.0	7	6	100	200	40.00
+80	Andrew Zhao	10	Richard Montgomery A	Anacostia	5.0	6	8	100	200	40.00
+81	Kevin Peng	12	Winston Churchill A	Dupont Circle	5.0	3	14	100	200	40.00
+82	Clete Reinberger	12	Cincinnati Hills	Georgetown	5.0	1	18	101	200	40.00
+83	Brandon Torres	11	Carl Sandburg	Bloomingdale	5.0	1	17	100	190	38.00
+84	Brighton Risch	12	Great Valley	Kalorama	5.0	2	15	100	190	38.00
+85	Aiden Dombrosky	12	Hoover B	Hillcrest	5.0	5	9	100	190	38.00
+86	Edward Kim	10	Johns Creek A	Judiciary Square	5.0	5	9	100	190	38.00
+87	Andrew Evans	12	McLean B	Georgetown	5.0	4	11	100	190	38.00
+88	Justin Wang	11	Strake Jesuit	Bloomingdale	5.0	3	13	100	190	38.00
+89	Campbell Brown	12	St. Thomas	Dupont Circle	4.0	2	11	80	150	37.50
+90	Aarushi Kanigicherla	10	Thomas Jefferson C	Mount Pleasant	4.5	2	13	91	170	37.78
+91	Claire Wang	11	Canyon Crest	Mount Pleasant	5.0	2	14	100	180	36.00
+92	Brayden Ferrell	11	Heights	Foggy Bottom	5.0	4	10	100	180	36.00
+93	Matt Serfontein	12	Innovation Academy B	Logan Circle	5.0	6	6	100	180	36.00
+94	Jack Mangrum	11	Innovation Academy B	Logan Circle	5.0	5	8	100	180	36.00
+95	Vidur Kothur	11	Lindbergh	Anacostia	5.0	3	12	100	180	36.00
+96	Timothy Porter	12	Maggie Walker A	Anacostia	5.0	3	12	100	180	36.00
+97	Henry Joecken	10	St. Xavier	Anacostia	5.0	3	12	100	180	36.00
+98	Andrew Li	10	Winston Churchill B	Logan Circle	5.0	3	12	100	180	36.00
+99	Krikor Hachikian	12	Belmont	Foggy Bottom	5.0	5	7	100	170	34.00
+100	Joseph Harrison	10	Detroit Catholic Central C	Foggy Bottom	5.0	2	13	100	170	34.00
+101	Christian Curtis	10	Detroit Catholic Central C	Foggy Bottom	5.0	4	9	100	170	34.00
+102	Adrian Tejada	11	Durham AT	Mount Pleasant	5.0	6	5	100	170	34.00
+103	Saral Sapkota	11	Elkhorn North	Bloomingdale	5.0	3	11	100	170	34.00
+104	Pranav Srambikkal	11	Lambert	Eckington	5.0	3	11	100	170	34.00
+105	Varun Sathyajeeth	12	Solon	Columbia Heights	5.0	2	13	100	170	34.00
+106	Vikas Kothari	12	St. Xavier	Anacostia	5.0	3	11	100	170	34.00
+107	Grace Liu	12	Thomas Jefferson B	Columbia Heights	5.0	5	7	100	170	34.00
+108	Ibrahim Mohammad	12	Chattahoochee	Georgetown	5.0	3	11	101	170	34.00
+109	John Thrower	9	Freeman	Columbia Heights	3.0	4	2	60	100	33.33
+110	Charlie Doehring	11	DuPage County AT	Kalorama	5.0	3	10	100	160	32.00
+111	Shaun Iyer	9	Innovation Academy B	Logan Circle	5.0	1	14	100	160	32.00
+112	Kevin Adler	11	Northmont B	Eckington	5.0	1	14	100	160	32.00
+113	Arhith Dharanendra	12	Chattahoochee	Georgetown	5.0	1	14	101	160	32.00
+114	Benny Feldman	12	Hastings	Mount Pleasant	5.0	5	6	101	160	32.00
+115	Sophia Guo	10	Thomas Jefferson D	Georgetown	5.0	5	6	101	160	32.00
+116	Aditya Patnaik	12	Beavercreek	Logan Circle	5.0	3	9	100	150	30.00
+117	Anna Kuang	12	Beavercreek	Logan Circle	5.0	3	9	100	150	30.00
+118	Liam Reed	12	Maggie Walker B	Eckington	5.0	1	13	100	150	30.00
+119	Eli Casey	10	Norfolk Academic Guild	Kalorama	5.0	2	11	100	150	30.00
+120	William Shi	11	Richard Montgomery B	Judiciary Square	5.0	4	7	100	150	30.00
+121	Andy Truong	10	Seven Lakes	Anacostia	5.0	5	5	100	150	30.00
+122	Angela Sun	11	Solon	Columbia Heights	5.0	2	11	100	150	30.00
+123	Wyatt Johnson	11	Solon	Columbia Heights	5.0	0	15	100	150	30.00
+124	Pranav Aiyar	12	William Fremd	Dupont Circle	5.0	4	7	100	150	30.00
+125	Colette Kendrick		Winston Churchill B	Logan Circle	5.0	3	9	100	150	30.00
+126	Aakash Sanjay	12	Johns Creek B	Dupont Circle	5.0	2	10	100	140	28.00
+127	Aiva Rudolph	12	Lindbergh	Anacostia	5.0	3	8	100	140	28.00
+128	Keefer Lin	11	Chattahoochee	Georgetown	5.0	4	6	101	140	28.00
+129	Noah McRedmond	12	Cincinnati Hills	Georgetown	5.0	3	8	101	140	28.00
+130	Dominic Apap	12	Detroit Catholic Central B	Judiciary Square	5.0	2	10	101	140	28.00
+131	Owen Linder	12	Hastings	Mount Pleasant	5.0	3	8	101	140	28.00
+132	Harish Lolla	11	Livingston B	Columbia Heights	3.0	1	6	60	80	26.67
+133	Ryan Dai	10	Carbondale	Foggy Bottom	5.0	2	9	100	130	26.00
+134	Jakub Hel	12	Hoover A	Logan Circle	5.0	4	5	100	130	26.00
+135	Aaryan Sumesh	11	Thomas Jefferson A	Bloomingdale	5.0	3	7	100	130	26.00
+136	Joshua Studee	12	Walter Payton B	Hillcrest	5.0	2	9	100	130	26.00
+137	Tyler Song	11	Winston Churchill A	Dupont Circle	5.0	3	7	100	130	26.00
+138	Aaron Zhou	10	Winston Churchill A	Dupont Circle	5.0	4	5	100	130	26.00
+139	Philip Calabrese	10	Detroit Catholic Central B	Judiciary Square	5.0	2	9	101	130	26.00
+140	Joslyn Smith	11	Elkhorn North	Bloomingdale	2.0	1	3	40	50	25.00
+141	Benjamin Laskov	10	Livingston B	Columbia Heights	2.0	0	5	40	50	25.00
+142	Samuel Li	12	Thomas Jefferson C	Mount Pleasant	4.5	4	3	91	110	24.44
+143	Kaushik Gollamudi	12	Barrington	Logan Circle	5.0	4	4	100	120	24.00
+144	Allen Xu	12	Durham AT	Mount Pleasant	5.0	3	6	100	120	24.00
+145	Charlie Bork	12	Elkhorn North	Bloomingdale	5.0	0	12	100	120	24.00
+146	Henry Fragale	10	Georgetown Day	Hillcrest	5.0	4	4	100	120	24.00
+147	Krish Nathan	9	Hoover A	Logan Circle	5.0	3	6	100	120	24.00
+148	Ryan McKenzie	11	McLean A	Bloomingdale	5.0	2	8	100	120	24.00
+149	Ryan Fitzgerald	12	Northmont A	Kalorama	5.0	4	4	100	120	24.00
+150	Bridget Scranton	12	Northmont B	Eckington	5.0	0	12	100	120	24.00
+151	Thomas Belcher	12	Saint Joseph	Logan Circle	5.0	2	8	100	120	24.00
+152	Ben Newman	11	University Lab	Judiciary Square	5.0	5	2	100	120	24.00
+153	Matias Roa	12	Walter Payton A	Mount Pleasant	5.0	2	8	100	120	24.00
+154	Leo Xiao	12	Walter Payton B	Hillcrest	5.0	3	6	100	120	24.00
+155	Ulden Gao	10	Winston Churchill B	Logan Circle	5.0	0	12	100	120	24.00
+156	Dylan Cregar	11	Detroit Catholic Central B	Judiciary Square	5.0	2	8	101	120	24.00
+157	Maya Pujara	10	Fairfield County AT	Georgetown	5.0	0	12	101	120	24.00
+158	Zee Ebert	12	Carl Sandburg	Bloomingdale	5.0	0	11	100	110	22.00
+159	Owen Gibbs	12	Heights	Foggy Bottom	5.0	2	7	100	110	22.00
+160	Varun Venkatagiri	12	Innovation Academy A	Columbia Heights	5.0	3	5	100	110	22.00
+161	Orion Brey	11	Owensboro	Mount Pleasant	5.0	3	5	100	110	22.00
+162	Teddy Berente	11	Saint Joseph	Logan Circle	5.0	1	9	100	110	22.00
+163	Jonathan Ouyang	11	University Lab	Judiciary Square	5.0	3	5	100	110	22.00
+164	Dwij Bhatt	12	William Fremd	Dupont Circle	5.0	3	5	100	110	22.00
+165	Anthony Xu	11	Thomas Jefferson C	Mount Pleasant	5.0	4	3	101	110	22.00
+166	Abigail Cutugno	11	Beavercreek	Logan Circle	5.0	1	8	100	100	20.00
+167	Theodor Martin	12	Carbondale	Foggy Bottom	5.0	2	6	100	100	20.00
+168	Danial Pitafi	12	Carbondale	Foggy Bottom	5.0	0	10	100	100	20.00
+169	Ben Yancey	11	Detroit Catholic Central A	Anacostia	5.0	2	6	100	100	20.00
+170	Anuj Damle	11	Freeman	Columbia Heights	5.0	0	10	100	100	20.00
+171	Maggie Sun	11	Hunter A	Hillcrest	5.0	3	4	100	100	20.00
+172	Jacob Koewler	11	James W. Robinson	Kalorama	5.0	0	10	100	100	20.00
+173	Sam Cohen	10	McLean A	Bloomingdale	5.0	2	6	100	100	20.00
+174	Nathan Haley	11	Northmont B	Eckington	5.0	1	8	100	100	20.00
+175	Michelle Yu	12	Richard Montgomery A	Anacostia	5.0	1	8	100	100	20.00
+176	Cormac Kennedy	11	Saint Joseph	Logan Circle	5.0	0	10	100	100	20.00
+177	David Black	11	University Lab	Judiciary Square	5.0	4	2	100	100	20.00
+178	Jacob Hansen	12	Walter Payton A	Mount Pleasant	5.0	3	4	100	100	20.00
+179	Ethan Liu	10	Livingston B	Columbia Heights	4.5	0	9	90	90	20.00
+180	Nikhil Kotikalapudi	12	Great Valley	Kalorama	3.0	0	6	60	60	20.00
+181	Rohan Singh	10	Thomas Jefferson D	Georgetown	5.0	2	6	101	100	20.00
+182	Andrew Tsui	12	Canyon Crest	Mount Pleasant	5.0	1	7	100	90	18.00
+183	Dillon Robertson	12	Carbondale	Foggy Bottom	5.0	1	7	100	90	18.00
+184	Ameya Bhalerao	10	Downingtown STEM	Hillcrest	5.0	0	9	100	90	18.00
+185	Sonny Bracamontes	10	Hoover B	Hillcrest	5.0	3	3	100	90	18.00
+186	Tejas Kohli	11	Lambert	Eckington	5.0	2	5	100	90	18.00
+187	Bladen Kidd	9	Maggie Walker B	Eckington	5.0	0	9	100	90	18.00
+188	Fern Fang	11	McLean A	Bloomingdale	5.0	2	5	100	90	18.00
+189	Ethan Kral	11	Northmont A	Kalorama	5.0	2	5	100	90	18.00
+190	Landon Block	11	Owensboro	Mount Pleasant	5.0	1	7	100	90	18.00
+191	Jingyi Wu	10	Stevenson A	Foggy Bottom	5.0	2	5	100	90	18.00
+192	Michael Rodriguez	11	Strake Jesuit	Bloomingdale	5.0	3	3	100	90	18.00
+193	Karl Barnickol	12	Walter Payton A	Mount Pleasant	5.0	1	7	100	90	18.00
+194	Ethan Hillstrom	12	Walter Payton B	Hillcrest	5.0	2	5	100	90	18.00
+195	Brady Laughlin	10	West Point	Bloomingdale	5.0	3	3	100	90	18.00
+196	Benjamin Towne	11	Detroit Catholic Central B	Judiciary Square	5.0	1	7	101	90	18.00
+197	Jacob Goldman-Wetzler	12	Hastings	Mount Pleasant	5.0	1	7	101	90	18.00
+198	Charlie Bartley	10	St. Thomas	Dupont Circle	3.5	1	4	70	60	17.14
+199	Colin O'Neill	11	Great Valley	Kalorama	3.0	1	3	60	50	16.67
+200	Leo Osborne	9	Alabama Cyber Tech	Judiciary Square	5.0	1	6	100	80	16.00
+201	Julian Halpern-Smith	12	Belmont	Foggy Bottom	5.0	2	4	100	80	16.00
+202	Ayaan Ghori	10	Carl Sandburg	Bloomingdale	5.0	1	6	100	80	16.00
+203	Chris Goolsby	11	Detroit Catholic Central A	Anacostia	5.0	0	8	100	80	16.00
+204	Christian 'Ash' Frederickson	12	Mexico	Hillcrest	5.0	2	4	100	80	16.00
+205	Percy Wheatley	12	Norfolk Academic Guild	Kalorama	5.0	1	6	100	80	16.00
+206	Luke Fedorchak	12	Georgetown Day	Hillcrest	2.5	1	2	50	40	16.00
+207	Arnav Lahoti	12	St. Mark's	Eckington	2.5	0	4	50	40	16.00
+208	Akilan Ganesan	11	Chattahoochee	Georgetown	5.0	0	8	101	80	16.00
+209	Nathan Liang	9	Thomas Jefferson D	Georgetown	5.0	1	6	101	80	16.00
+210	Jack Liu	10	Livingston B	Columbia Heights	4.0	1	4	80	60	15.00
+211	James Grey	10	Freeman	Columbia Heights	2.0	0	3	40	30	15.00
+212	Moses Dong	11	Johns Creek B	Dupont Circle	3.5	1	3	70	50	14.29
+213	Brady Shih	9	Detroit Catholic Central C	Foggy Bottom	5.0	1	5	100	70	14.00
+214	Risshi Naavaal	12	Maggie Walker A	Anacostia	5.0	1	5	100	70	14.00
+215	Devesh Kumar	12	Maggie Walker B	Eckington	5.0	1	5	100	70	14.00
+216	Raghav Kuruba	9	McLean B	Georgetown	5.0	0	7	100	70	14.00
+217	Jonathan Tao	11	Stevenson B	Columbia Heights	5.0	1	5	100	70	14.00
+218	Ethan Wang	9	Stevenson B	Columbia Heights	5.0	2	3	100	70	14.00
+219	Abigail Lee	11	Thomas Jefferson B	Columbia Heights	5.0	2	3	100	70	14.00
+220	Anvith Vanukuri	11	William Fremd	Dupont Circle	5.0	2	3	100	70	14.00
+221	Alex Xu	12	Canyon Crest	Mount Pleasant	5.0	1	4	100	60	12.00
+222	James Allen	9	Heights	Foggy Bottom	5.0	2	2	100	60	12.00
+223	Keith De La Rosa	12	Hoover B	Hillcrest	5.0	1	4	100	60	12.00
+224	Miley Henton	11	Hoover B	Hillcrest	5.0	1	4	100	60	12.00
+225	Romir Mukherjee	9	Hunter B	Dupont Circle	5.0	0	6	100	60	12.00
+226	Andrew Martin	10	Lightridge	Foggy Bottom	5.0	0	6	100	60	12.00
+227	Kevin Zhang	11	Livingston A	Kalorama	5.0	1	4	100	60	12.00
+228	Owen Wagner	11	Norfolk Academic Guild	Kalorama	5.0	0	6	100	60	12.00
+229	Kevin Baek	11	Okemos	Eckington	5.0	1	4	100	60	12.00
+230	Nate Stewart	12	Maggie Walker C	Judiciary Square	5.0	0	6	101	60	12.00
+231	Danny Shapiro	11	Johns Creek B	Dupont Circle	3.5	0	4	70	40	11.43
+232	Aaron Castelino	11	Durham AT	Mount Pleasant	5.0	1	3	100	50	10.00
+233	Natalija Ducich	12	Lightridge	Foggy Bottom	5.0	0	5	100	50	10.00
+234	Cindy Yao	12	Lindbergh	Anacostia	5.0	1	3	100	50	10.00
+235	Lelun Li	11	Livingston A	Kalorama	5.0	1	3	100	50	10.00
+236	Yash Saxena	12	Maggie Walker A	Anacostia	5.0	0	5	100	50	10.00
+237	Aaron Lin	9	McLean B	Georgetown	5.0	0	5	100	50	10.00
+238	Myles Breguet	10	Norfolk Academic Guild	Kalorama	5.0	0	5	100	50	10.00
+239	Lylian Zhu	10	Stevenson A	Foggy Bottom	5.0	0	5	100	50	10.00
+240	Joseph Gleyzer	10	Stevenson B	Columbia Heights	5.0	1	3	100	50	10.00
+241	Connolly Nugent	10	Walter Payton B	Hillcrest	5.0	1	3	100	50	10.00
+242	Sean Harbison	10	West Point	Bloomingdale	5.0	0	5	100	50	10.00
+243	Eli Taylor	11	West Point	Bloomingdale	3.0	1	1	60	30	10.00
+244	Anthony Lau	10	Richard Montgomery B	Judiciary Square	2.0	0	2	40	20	10.00
+245	Lynda Ma	10	Barrington	Logan Circle	3.5	1	1	70	30	8.57
+246	Andrea Schirano	11	Bloomington	Eckington	5.0	1	2	100	40	8.00
+247	Saathvik Koneru	9	Detroit Catholic Central C	Foggy Bottom	5.0	0	4	100	40	8.00
+248	Fahian Joy	12	Hunter A	Hillcrest	5.0	1	2	100	40	8.00
+249	Katie Watson	11	Maggie Walker C	Judiciary Square	5.0	0	4	101	40	8.00
+250	Ozan Demiroglu	12	Seven Lakes	Anacostia	5.0	1	2	100	40	8.00
+251	Eeshan Gudapati	9	Stevenson B	Columbia Heights	5.0	1	2	100	40	8.00
+252	Lomahn Sun	10	Georgetown Day	Hillcrest	2.5	1	0	50	20	8.00
+253	Rajvir Purohit	10	Great Valley	Kalorama	2.5	0	2	50	20	8.00
+254	Vardhan Agnihotri	12	St. Mark's	Eckington	2.5	0	2	50	20	8.00
+255	Hayden Qi	10	Johns Creek B	Dupont Circle	3.0	1	0	60	20	6.67
+256	Kevin Jacob	11	Lightridge	Foggy Bottom	3.0	0	2	60	20	6.67
+257	Andrew Jiang	11	Richard Montgomery B	Judiciary Square	3.0	1	0	60	20	6.67
+258	Will Treadway	12	Cincinnati Hills	Georgetown	5.0	1	1	101	30	6.00
+259	Mihir Subramaniam	11	Downingtown STEM	Hillcrest	5.0	0	3	100	30	6.00
+260	Walker Varghese	9	Hunter B	Dupont Circle	5.0	0	3	100	30	6.00
+261	Jack Larmoyeux	12	James W. Robinson	Kalorama	5.0	1	1	100	30	6.00
+262	Noah Collins	10	James W. Robinson	Kalorama	5.0	1	1	100	30	6.00
+263	Andy Campbell	11	Maggie Walker C	Judiciary Square	5.0	1	1	101	30	6.00
+264	Daniel Leung	10	Okemos	Eckington	5.0	0	3	100	30	6.00
+265	Kaden Blankenship	11	Owensboro	Mount Pleasant	5.0	0	3	100	30	6.00
+266	Jaden Bandy	12	Richard Montgomery B	Judiciary Square	5.0	0	3	100	30	6.00
+267	William Thain	12	Saint Joseph	Logan Circle	5.0	0	3	100	30	6.00
+268	Timothy Chiu	12	St. Xavier	Anacostia	5.0	0	3	100	30	6.00
+269	Nolan King	11	Elkhorn North	Bloomingdale	3.5	0	2	70	20	5.71
+270	John Davis Yovino	11	West Point	Bloomingdale	2.0	0	1	40	10	5.00
+271	Ansel Lollar	12	Bloomington	Eckington	4.5	0	2	90	20	4.44
+272	Bharathi Kancharla	12	Maggie Walker B	Eckington	5.0	0	2	100	20	4.00
+273	Carter Blackburn	11	Mexico	Hillcrest	5.0	1	0	100	20	4.00
+274	Rishabh Mahale	10	Okemos	Eckington	5.0	0	2	100	20	4.00
+275	Amber Park	10	Freeman	Columbia Heights	3.0	0	1	60	10	3.33
+276	Aidan Clark	12	St. Thomas	Dupont Circle	3.5	0	1	70	10	2.86
+277	Alex Zhang	9	DuPage County AT	Kalorama	5.0	0	1	100	10	2.00
+278	Allen Chang	10	Winston Churchill B	Logan Circle	5.0	0	1	100	10	2.00
+279	Nathan Bai	9	Innovation Academy B	Logan Circle	5.0	0	0	100	0	0.00
+280	Finn Higgins	10	Bloomington	Eckington	4.5	0	0	90	0	0.00
+281	Dylan Reid	11	Mexico	Hillcrest	4.0	0	0	80	0	0.00
+282	Nicolas Borin	12	St. Thomas	Dupont Circle	4.0	0	0	80	0	0.00
+283	Aaron Bullions	12	St. Xavier	Anacostia	3.0	0	0	60	0	0.00
+284	Brandon Wiltse	11	Elkhorn North	Bloomingdale	2.5	0	0	50	0	0.00
+285	Ben Cervania	11	Elkhorn North	Bloomingdale	2.0	0	0	40	0	0.00
+286	Atticus Lockerman	9	Freeman	Columbia Heights	2.0	0	0	40	0	0.00
+287	Phoebe Lau	10	Lightridge	Foggy Bottom	2.0	0	0	40	0	0.00
+288	Luke Faircloth	11	St. Xavier	Anacostia	2.0	0	0	40	0	0.00
+289	Flora Shen	9	Barrington	Logan Circle	1.5	0	0	30	0	0.00
+290	Atharva Singh	9	Great Valley	Kalorama	1.5	0	0	30	0	0.00
+291	Benjamin Silversten	11	Livingston B	Columbia Heights	1.5	0	0	30	0	0.00
+292	Levi Donahoo	10	Bloomington	Eckington	1.0	0	0	20	0	0.00
+293	Lucita Gleeson	11	Mexico	Hillcrest	1.0	0	0	20	0	0.00
+294	Mohan Parthasarathy	9	Thomas Jefferson C	Mount Pleasant	0.5	0	0	10	0	0.00
+295	Justin Yuan	9	Thomas Jefferson C	Mount Pleasant	0.5	0	0	10	0	0.00

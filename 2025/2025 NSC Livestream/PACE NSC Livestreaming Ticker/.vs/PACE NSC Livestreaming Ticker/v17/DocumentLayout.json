@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashis\\OneDrive\\Desktop\\Ashish\\Quizbowl\\PACE\\2025 NSC Livestream\\PACE NSC Livestreaming Ticker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CF4E4C-712A-4F88-B3E8-4D30DC217A4B}|PACE NSC Livestreaming Ticker.pyproj|C:\\Users\\Ashis\\OneDrive\\Desktop\\Ashish\\Quizbowl\\PACE\\2025 NSC Livestream\\PACE NSC Livestreaming Ticker\\PACE_NSC_Livestreaming_Ticker.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4CF4E4C-712A-4F88-B3E8-4D30DC217A4B}|PACE NSC Livestreaming Ticker.pyproj|solutionrelative:PACE_NSC_Livestreaming_Ticker.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PACE_NSC_Livestreaming_Ticker.py",
+              "DocumentMoniker": "C:\\Users\\Ashis\\OneDrive\\Desktop\\Ashish\\Quizbowl\\PACE\\2025 NSC Livestream\\PACE NSC Livestreaming Ticker\\PACE_NSC_Livestreaming_Ticker.py",
+              "RelativeDocumentMoniker": "PACE_NSC_Livestreaming_Ticker.py",
+              "ToolTip": "C:\\Users\\Ashis\\OneDrive\\Desktop\\Ashish\\Quizbowl\\PACE\\2025 NSC Livestream\\PACE NSC Livestreaming Ticker\\PACE_NSC_Livestreaming_Ticker.py*",
+              "RelativeToolTip": "PACE_NSC_Livestreaming_Ticker.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-18T02:20:34.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

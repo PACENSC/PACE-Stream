@@ -1,0 +1,3032 @@
+[
+    {
+        "name": "Tate Osborne",
+        "team": "Alabama Cyber Tech",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Leo Osborne",
+        "team": "Alabama Cyber Tech",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Charles Young",
+        "team": "Barrington",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rohan Kher",
+        "team": "Barrington",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kaushik Gollamudi",
+        "team": "Barrington",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lynda Ma",
+        "team": "Barrington",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Flora Shen",
+        "team": "Barrington",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aryan Desarapu",
+        "team": "Beavercreek",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Abigail Cutugno",
+        "team": "Beavercreek",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aditya Patnaik",
+        "team": "Beavercreek",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anna Kuang",
+        "team": "Beavercreek",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Gao",
+        "team": "Belmont",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Gregory Zeldovich",
+        "team": "Belmont",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Julian Halpern-Smith",
+        "team": "Belmont",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Krikor Hachikian",
+        "team": "Belmont",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Soren Gjesfjeld",
+        "team": "Bloomington",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrea Schirano",
+        "team": "Bloomington",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ansel Lollar",
+        "team": "Bloomington",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Finn Higgins",
+        "team": "Bloomington",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Levi Donahoo",
+        "team": "Bloomington",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Yaj Jhajhria",
+        "team": "Canyon Crest",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Tsui",
+        "team": "Canyon Crest",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alex Xu",
+        "team": "Canyon Crest",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Claire Wang",
+        "team": "Canyon Crest",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ryan Dai",
+        "team": "Carbondale",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Theodor Martin",
+        "team": "Carbondale",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Danial Pitafi",
+        "team": "Carbondale",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Dillon Robertson",
+        "team": "Carbondale",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brandon Torres",
+        "team": "Carl Sandburg",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Zee Ebert",
+        "team": "Carl Sandburg",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ayaan Ghori",
+        "team": "Carl Sandburg",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ibrahim Mohammad",
+        "team": "Chattahoochee",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Arhith Dharanendra",
+        "team": "Chattahoochee",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Akilan Ganesan",
+        "team": "Chattahoochee",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Keefer Lin",
+        "team": "Chattahoochee",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sky Hong",
+        "team": "Choate Rosemary Hall",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Clete Reinberger",
+        "team": "Cincinnati Hills",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Will Treadway",
+        "team": "Cincinnati Hills",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Noah McRedmond",
+        "team": "Cincinnati Hills",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nick Murray",
+        "team": "Detroit Catholic Central A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jacob Barta",
+        "team": "Detroit Catholic Central A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ben Yancey",
+        "team": "Detroit Catholic Central A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Chris Goolsby",
+        "team": "Detroit Catholic Central A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Dominic Apap",
+        "team": "Detroit Catholic Central B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Benjamin Towne",
+        "team": "Detroit Catholic Central B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Dylan Cregar",
+        "team": "Detroit Catholic Central B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Philip Calabrese",
+        "team": "Detroit Catholic Central B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Joseph Harrison",
+        "team": "Detroit Catholic Central C",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Christian Curtis",
+        "team": "Detroit Catholic Central C",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brady Shih",
+        "team": "Detroit Catholic Central C",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Saathvik Koneru",
+        "team": "Detroit Catholic Central C",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ryan Smith",
+        "team": "Downingtown STEM",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Mihir Subramaniam",
+        "team": "Downingtown STEM",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ameya Bhalerao",
+        "team": "Downingtown STEM",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Abigail AuYeung",
+        "team": "DuPage County AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Charlie Doehring",
+        "team": "DuPage County AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alex Zhang",
+        "team": "DuPage County AT",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Allen Xu",
+        "team": "Durham AT",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Adrian Tejada",
+        "team": "Durham AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aaron Castelino",
+        "team": "Durham AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Spencer Thomas",
+        "team": "Durham AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Charlie Bork",
+        "team": "Elkhorn North",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Saral Sapkota",
+        "team": "Elkhorn North",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nolan King",
+        "team": "Elkhorn North",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ben Cervania",
+        "team": "Elkhorn North",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Joslyn Smith",
+        "team": "Elkhorn North",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brandon Wiltse",
+        "team": "Elkhorn North",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rajiv Pujara",
+        "team": "Fairfield County AT",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Maya Pujara",
+        "team": "Fairfield County AT",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anuj Damle",
+        "team": "Freeman",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Matthew Wozniak",
+        "team": "Freeman",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "John Thrower",
+        "team": "Freeman",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "James Grey",
+        "team": "Freeman",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Amber Park",
+        "team": "Freeman",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Atticus Lockerman",
+        "team": "Freeman",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ben Hellman",
+        "team": "Georgetown Day",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Luke Fedorchak",
+        "team": "Georgetown Day",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Haughton Neppl",
+        "team": "Georgetown Day",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Henry Fragale",
+        "team": "Georgetown Day",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lomahn Sun",
+        "team": "Georgetown Day",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brighton Risch",
+        "team": "Great Valley",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Travis Johnson",
+        "team": "Great Valley",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Colin O'Neill",
+        "team": "Great Valley",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rajvir Purohit",
+        "team": "Great Valley",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Atharva Singh",
+        "team": "Great Valley",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nikhil Kotikalapudi",
+        "team": "Great Valley",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Benny Feldman",
+        "team": "Hastings",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hazel DePreist-Sullivan",
+        "team": "Hastings",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Owen Linder",
+        "team": "Hastings",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jacob Goldman-Wetzler",
+        "team": "Hastings",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Bryce Cruise",
+        "team": "Heights",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Owen Gibbs",
+        "team": "Heights",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brayden Ferrell",
+        "team": "Heights",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "James Allen",
+        "team": "Heights",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hollis Cruise",
+        "team": "Heights",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jakub Hel",
+        "team": "Hoover A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Isaac McCollum",
+        "team": "Hoover A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Stephen McCollum",
+        "team": "Hoover A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Krish Nathan",
+        "team": "Hoover A",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sonny Bracamontes",
+        "team": "Hoover B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Keith De La Rosa",
+        "team": "Hoover B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aiden Dombrosky",
+        "team": "Hoover B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Miley Henton",
+        "team": "Hoover B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Matthew Kohn",
+        "team": "Hunter A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Fahian Joy",
+        "team": "Hunter A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Maggie Sun",
+        "team": "Hunter A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Evan Schleck",
+        "team": "Hunter A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jun Lowenhar",
+        "team": "Hunter B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Samuel Shottes",
+        "team": "Hunter B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Walker Varghese",
+        "team": "Hunter B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Romir Mukherjee",
+        "team": "Hunter B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Adhav Ravikumar",
+        "team": "Innovation Academy A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Varun Venkatagiri",
+        "team": "Innovation Academy A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Krish Chinta",
+        "team": "Innovation Academy A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lucas Ardelean",
+        "team": "Innovation Academy A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Matt Serfontein",
+        "team": "Innovation Academy B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jack Mangrum",
+        "team": "Innovation Academy B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Shaun Iyer",
+        "team": "Innovation Academy B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nathan Bai",
+        "team": "Innovation Academy B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Thomas Glotfelty",
+        "team": "James W. Robinson",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jack Larmoyeux",
+        "team": "James W. Robinson",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jacob Koewler",
+        "team": "James W. Robinson",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Noah Collins",
+        "team": "James W. Robinson",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rohan Dalal",
+        "team": "Johns Creek A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jeffrey Xu",
+        "team": "Johns Creek A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Wang",
+        "team": "Johns Creek A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Edward Kim",
+        "team": "Johns Creek A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Michelle Luo",
+        "team": "Johns Creek B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Danny Shapiro",
+        "team": "Johns Creek B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aakash Sanjay",
+        "team": "Johns Creek B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hayden Qi",
+        "team": "Johns Creek B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Moses Dong",
+        "team": "Johns Creek B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Cole Hartung",
+        "team": "Kinkaid",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ali Hamzeh",
+        "team": "Kinkaid",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Manu Sankaran",
+        "team": "Lambert",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sanjay Shanmuga Perumal",
+        "team": "Lambert",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Tejas Kohli",
+        "team": "Lambert",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Pranav Srambikkal",
+        "team": "Lambert",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Natalija Ducich",
+        "team": "Lightridge",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Jacob",
+        "team": "Lightridge",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Janani Gollapalli",
+        "team": "Lightridge",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Martin",
+        "team": "Lightridge",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Phoebe Lau",
+        "team": "Lightridge",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aiva Rudolph",
+        "team": "Lindbergh",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alec West",
+        "team": "Lindbergh",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Cindy Yao",
+        "team": "Lindbergh",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Vidur Kothur",
+        "team": "Lindbergh",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Thomas Donelon",
+        "team": "Lindbergh",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hung Nguyen",
+        "team": "Lindbergh",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Robert Wang",
+        "team": "Livingston A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sophia Wu",
+        "team": "Livingston A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Zhang",
+        "team": "Livingston A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lelun Li",
+        "team": "Livingston A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Arav Kaushik",
+        "team": "Livingston B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Harish Lolla",
+        "team": "Livingston B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ethan Liu",
+        "team": "Livingston B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jack Liu",
+        "team": "Livingston B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Benjamin Laskov",
+        "team": "Livingston B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Benjamin Silversten",
+        "team": "Livingston B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sam McNamee",
+        "team": "Maggie Walker A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Timothy Porter",
+        "team": "Maggie Walker A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Yash Saxena",
+        "team": "Maggie Walker A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Risshi Naavaal",
+        "team": "Maggie Walker A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Bladen Kidd",
+        "team": "Maggie Walker B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Liam Reed",
+        "team": "Maggie Walker B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Bharathi Kancharla",
+        "team": "Maggie Walker B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Devesh Kumar",
+        "team": "Maggie Walker B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nate Stewart",
+        "team": "Maggie Walker C",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "David Lins",
+        "team": "Maggie Walker C",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Katie Watson",
+        "team": "Maggie Walker C",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andy Campbell",
+        "team": "Maggie Walker C",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sam Cohen",
+        "team": "McLean A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Edward Burros",
+        "team": "McLean A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ryan McKenzie",
+        "team": "McLean A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Fern Fang",
+        "team": "McLean A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aaron Lin",
+        "team": "McLean B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Raghav Kuruba",
+        "team": "McLean B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Evans",
+        "team": "McLean B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Carter Pisocky",
+        "team": "McLean B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Christian 'Ash' Frederickson",
+        "team": "Mexico",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Camden Williams",
+        "team": "Mexico",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Carter Blackburn",
+        "team": "Mexico",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Dylan Reid",
+        "team": "Mexico",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lucita Gleeson",
+        "team": "Mexico",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Eli Casey",
+        "team": "Norfolk Academic Guild",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Owen Wagner",
+        "team": "Norfolk Academic Guild",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Percy Wheatley",
+        "team": "Norfolk Academic Guild",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Myles Breguet",
+        "team": "Norfolk Academic Guild",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Adam Williams",
+        "team": "Northmont A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ave Rieger",
+        "team": "Northmont A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ryan Fitzgerald",
+        "team": "Northmont A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ethan Kral",
+        "team": "Northmont A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Bridget Scranton",
+        "team": "Northmont B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Russell Dillak",
+        "team": "Northmont B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Adler",
+        "team": "Northmont B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nathan Haley",
+        "team": "Northmont B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alex Zhang",
+        "team": "Okemos",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Baek",
+        "team": "Okemos",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Daniel Leung",
+        "team": "Okemos",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rishabh Mahale",
+        "team": "Okemos",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Beckett Gilmore",
+        "team": "Owensboro",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Landon Block",
+        "team": "Owensboro",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kaden Blankenship",
+        "team": "Owensboro",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Orion Brey",
+        "team": "Owensboro",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Michelle Yu",
+        "team": "Richard Montgomery A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rachel Ezrielev",
+        "team": "Richard Montgomery A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Josh Fan",
+        "team": "Richard Montgomery A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Zhao",
+        "team": "Richard Montgomery A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nam Dang",
+        "team": "Richard Montgomery B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jaden Bandy",
+        "team": "Richard Montgomery B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "William Shi",
+        "team": "Richard Montgomery B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Jiang",
+        "team": "Richard Montgomery B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anthony Lau",
+        "team": "Richard Montgomery B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Thomas Belcher",
+        "team": "Saint Joseph",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Teddy Berente",
+        "team": "Saint Joseph",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Cormac Kennedy",
+        "team": "Saint Joseph",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "William Thain",
+        "team": "Saint Joseph",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ozan Demiroglu",
+        "team": "Seven Lakes",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Keerthana Krishnan",
+        "team": "Seven Lakes",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aditya Khambekar",
+        "team": "Seven Lakes",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andy Truong",
+        "team": "Seven Lakes",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Varun Sathyajeeth",
+        "team": "Solon",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Angela Sun",
+        "team": "Solon",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Wyatt Johnson",
+        "team": "Solon",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aditya Shivaswamy",
+        "team": "St. Mark's",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sohum Sukhatankar",
+        "team": "St. Mark's",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Arnav Lahoti",
+        "team": "St. Mark's",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ethan Bosita",
+        "team": "St. Mark's",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Vardhan Agnihotri",
+        "team": "St. Mark's",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Campbell Brown",
+        "team": "St. Thomas",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aidan Clark",
+        "team": "St. Thomas",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nicolas Borin",
+        "team": "St. Thomas",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Zacariah Hart",
+        "team": "St. Thomas",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Charlie Bartley",
+        "team": "St. Thomas",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aaron Bullions",
+        "team": "St. Xavier",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Timothy Chiu",
+        "team": "St. Xavier",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Luke Faircloth",
+        "team": "St. Xavier",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Henry Joecken",
+        "team": "St. Xavier",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Vikas Kothari",
+        "team": "St. Xavier",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Vince Palermo",
+        "team": "St. Xavier",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hari Veginati",
+        "team": "Stevenson A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jingyi Wu",
+        "team": "Stevenson A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Yang",
+        "team": "Stevenson A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Lylian Zhu",
+        "team": "Stevenson A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Eeshan Gudapati",
+        "team": "Stevenson B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jonathan Tao",
+        "team": "Stevenson B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Joseph Gleyzer",
+        "team": "Stevenson B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ethan Wang",
+        "team": "Stevenson B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Justin Wang",
+        "team": "Strake Jesuit",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Max Chen",
+        "team": "Strake Jesuit",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Michael Rodriguez",
+        "team": "Strake Jesuit",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Khang Le",
+        "team": "Strake Jesuit",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Deven Hagen",
+        "team": "Thomas Jefferson A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Chris Yoo",
+        "team": "Thomas Jefferson A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aaryan Sumesh",
+        "team": "Thomas Jefferson A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ryan Zhang",
+        "team": "Thomas Jefferson A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Angela Yan",
+        "team": "Thomas Jefferson A",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Hrishi Bhooma",
+        "team": "Thomas Jefferson A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Abigail Lee",
+        "team": "Thomas Jefferson B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Grace Liu",
+        "team": "Thomas Jefferson B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alec Riso",
+        "team": "Thomas Jefferson B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anthony Zhao",
+        "team": "Thomas Jefferson B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Eshaan Sombhatta",
+        "team": "Thomas Jefferson B",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Arya Bharath",
+        "team": "Thomas Jefferson B",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Samuel Li",
+        "team": "Thomas Jefferson C",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alan Fan",
+        "team": "Thomas Jefferson C",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aarushi Kanigicherla",
+        "team": "Thomas Jefferson C",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anthony Xu",
+        "team": "Thomas Jefferson C",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Mohan Parthasarathy",
+        "team": "Thomas Jefferson C",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Justin Yuan",
+        "team": "Thomas Jefferson C",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Rohan Singh",
+        "team": "Thomas Jefferson D",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sophia Guo",
+        "team": "Thomas Jefferson D",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Matthew Ryan",
+        "team": "Thomas Jefferson D",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Nathan Liang",
+        "team": "Thomas Jefferson D",
+        "grade": "Freshman",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ben Newman",
+        "team": "University Lab",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "David Black",
+        "team": "University Lab",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jonathan Ouyang",
+        "team": "University Lab",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Shawn Syed",
+        "team": "University Lab",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Addison Baker",
+        "team": "Walter Payton A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Karl Barnickol",
+        "team": "Walter Payton A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Jacob Hansen",
+        "team": "Walter Payton A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Matias Roa",
+        "team": "Walter Payton A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ethan Hillstrom",
+        "team": "Walter Payton B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Connolly Nugent",
+        "team": "Walter Payton B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Joshua Studee",
+        "team": "Walter Payton B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Leo Xiao",
+        "team": "Walter Payton B",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brodie Henry",
+        "team": "West Point",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Sean Harbison",
+        "team": "West Point",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Brady Laughlin",
+        "team": "West Point",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "John Davis Yovino",
+        "team": "West Point",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Eli Taylor",
+        "team": "West Point",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Omkar Marathe",
+        "team": "William Fremd",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Pranav Aiyar",
+        "team": "William Fremd",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Dwij Bhatt",
+        "team": "William Fremd",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Anvith Vanukuri",
+        "team": "William Fremd",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Alvin Guo",
+        "team": "Winston Churchill A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Kevin Peng",
+        "team": "Winston Churchill A",
+        "grade": "Senior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Tyler Song",
+        "team": "Winston Churchill A",
+        "grade": "Junior",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Aaron Zhou",
+        "team": "Winston Churchill A",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Allen Chang",
+        "team": "Winston Churchill B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Ulden Gao",
+        "team": "Winston Churchill B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Andrew Li",
+        "team": "Winston Churchill B",
+        "grade": "Sophomore",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    },
+    {
+        "name": "Colette Kendrick",
+        "team": "Winston Churchill B",
+        "grade": "",
+        "tuh": 0,
+        "powers": 0,
+        "tus": 0,
+        "points": 0,
+        "ppg": 0
+    }
+]

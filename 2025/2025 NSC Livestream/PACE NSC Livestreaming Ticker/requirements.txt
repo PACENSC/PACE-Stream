@@ -1,0 +1,6 @@
+obs-websocket-py
+asyncio
+json
+obsws_python
+obsidian
+websockets

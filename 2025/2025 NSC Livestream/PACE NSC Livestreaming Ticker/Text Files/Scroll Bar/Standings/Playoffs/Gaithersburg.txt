@@ -1,0 +1,7 @@
+1	Detroit Catholic Central A			5	0	1.000	418.0	22	48	101	69	1190	17.25
+2	McLean A			4	1	.800	332.0	19	37	101	56	910	16.25
+3	Mexico	SS		3	2	.600	308.0	16	34	100	50	880	17.60
+4	Thomas Jefferson C			2	3	.400	224.0	15	26	100	41	560	13.66
+5	Winston Churchill B		JV	1	4	.200	172.0	8	27	100	35	430	12.29
+6	Detroit Catholic Central C		JV	0	5	.000	144.0	2	30	100	32	380	11.88
+7	City High A		JV	0	5	.000	144.0	2	30	100	32	380	11.88

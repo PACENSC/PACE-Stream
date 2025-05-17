@@ -1,0 +1,20 @@
+OBS Text Slideshow
+Own3d Pro
+Gradient Source
+
+Outside Connections:
+---------------------
+
+OBS Websocket - Done!
+Spotify - Done!
+Cornerstone - Done!
+PBDS (Bracket Standings)
+Harry Stats (Game Updates, individual standings, results)
+
+Awards Listing
+ 
+Top 16 Teams "16th Place"
+Top 3 SS Teams "Small School - 3rd Place"
+Top 3 JV Teams "Junior Varsity - 3rd Place"
+Top 8 Individual Scorers "Individual - 8th Place"
+Top 4 Rising Stars "Rising Stars - 4th Place"

@@ -1,0 +1,4 @@
+1	Hoover B			4	3	.571	224.3	13	53	141	65	790	12.15
+2	Cincinnati Hills Christian			3	4	.429	210.0	6	55	140	61	800	13.11
+3	James W. Robinson			1	6	.143	168.6	5	44	140	49	640	13.06
+4	Choate Rosemary Hall		JV	1	6	.143	152.9	11	36	140	47	490	10.43

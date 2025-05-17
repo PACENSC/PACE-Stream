@@ -1,0 +1,4 @@
+1	Hunter B			3	4	.429	220.0	12	49	140	61	810	13.28
+2	Winston Churchill B		JV	2	5	.286	235.7	16	47	140	63	860	13.65
+3	Okemos			2	5	.286	208.6	12	43	140	55	790	14.36
+4	Detroit Catholic Central C		JV	0	7	.000	170.0	2	48	141	50	670	13.40

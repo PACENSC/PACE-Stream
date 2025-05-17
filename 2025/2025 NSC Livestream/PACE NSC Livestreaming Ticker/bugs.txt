@@ -1,0 +1,57 @@
+Edit 2 Videos
+Powerpoint of States
+Transfer Other Streams
+
+STRESS MY SYSTEM!!!
+Plan Transition Scenes Buttons
+
+Figure out stream connections, if stream crashes. - Friday
+
+Venv/Github - Cant figure out
+Transitions Tkinter - Not possible
+
+To-do:
+-----------------
+Make Intro to NSC Video - video made, need mp3 file
+Make Quizbowl Game Explained Video - editing
+Make NSC Tournament Explainer Video - editing
+Look into Powerpoint OBS - I might just input this from another computer lol
+
+States Powerpoint
+------------------------
+Done - Alabama
+Done - California
+Done - Connecticut
+Done - DC
+Done - Georgia
+Illinois
+Indiana
+Kentucky
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Missouri
+New York
+North Carolina
+Ohio
+Oklahoma
+Pennsylvania
+Tennessee
+Texas
+Virginia
+
+Transitions
+------------------------------------
+Beginning: Countdown
+Countown -> FTB -> Intro to NSC Video
+Intro to NSC Video -> Panelists intro (Welcome to the NSC, brand new livestream)
+Panelists Intro -> What is Quizbowl
+What is Quizbowl -> Discussion of Brief history of NSC
+Discussion -> Tournament Format
+Tournament Format -> Hosts
+Hosts -> Teams at NSC by State
+Teams at NSC by State -> Lets take a look at the Prelim Brackets
+Lets take a look at the prelim brackets -> Prelim Brackets
+Prelim Brackets -> Hosts for what to expect for the day, delay until Rd. 1 teams come in.
+Talk about random stuff -> Round 1

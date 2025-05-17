@@ -1,0 +1,7 @@
+1	Innovation Academy B			4	1	.800	264.0	8	42	100	50	740	14.80
+2	Detroit Catholic Central B			4	1	.800	262.0	2	52	100	54	750	13.89
+3	Owensboro			3	2	.600	316.0	6	50	100	56	960	17.14
+4	Cincinnati Hills			3	2	.600	218.0	7	35	100	42	600	14.29
+5	Freeman			1	4	.200	192.0	6	35	100	41	490	11.95
+6	Elkhorn North			0	5	.000	128.0	3	29	100	32	290	9.06
+7	City High D			1	4	.200	168.0	7	27	100	34	430	12.65
